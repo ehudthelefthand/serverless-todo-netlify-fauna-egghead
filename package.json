@@ -1,0 +1,12 @@
+{
+  "name": "serverless-todo-netlify-fauna-egghead",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ehudthelefthand/serverless-todo-netlify-fauna-egghead.git",
+  "author": "Peerawat Poombua <peerawat.pm@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
